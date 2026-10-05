@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Masala Dabba</title>
+  <meta name="description" content="Ingredient & Quantity Extractor for Indian Recipes — spaCy NER vs regex baseline">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@600;700&family=Yatra+One&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Ccircle cx='20' cy='20' r='19' fill='%23F7EFE2' stroke='%23B8862B' stroke-width='2'/%3E%3Ccircle cx='20' cy='10' r='4' fill='%23E8A317'/%3E%3Ccircle cx='30' cy='20' r='4' fill='%235B8C5A'/%3E%3Ccircle cx='20' cy='30' r='4' fill='%23C1442E'/%3E%3Ccircle cx='10' cy='20' r='4' fill='%23F26B1D'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="/static/style.css?v=4">
+</head>
+<body>
+  <!-- reusable ornaments -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="rangoli" viewBox="0 0 40 40">
+      <g fill="none" stroke="currentColor" stroke-width="1.3">
+        <circle cx="20" cy="20" r="3.2"/>
+        <path d="M20 4c3 5 3 8 0 11c-3-3-3-6 0-11zM20 36c3-5 3-8 0-11c-3 3-3 6 0 11zM4 20c5-3 8-3 11 0c-3 3-6 3-11 0zM36 20c-5-3-8-3-11 0c3 3 6 3 11 0z"/>
+        <path d="M8.7 8.7c5.5 1.4 7.6 3.5 7.1 7.1c-3.6.5-5.7-1.6-7.1-7.1zM31.3 31.3c-5.5-1.4-7.6-3.5-7.1-7.1c3.6-.5 5.7 1.6 7.1 7.1zM31.3 8.7c-1.4 5.5-3.5 7.6-7.1 7.1c-.5-3.6 1.6-5.7 7.1-7.1zM8.7 31.3c1.4-5.5 3.5-7.6 7.1-7.1c.5 3.6-1.6 5.7-7.1 7.1z" opacity=".7"/>
+      </g>
+    </symbol>
+  </svg>
+
+  <header class="site-header">
+    <div class="brand">
+      <svg class="brand-mark" aria-hidden="true"><use href="#rangoli"/></svg>
+      <div>
+        <h1>Masala Dabba</h1>
+        <p class="subtitle">Ingredient &amp; Quantity Extractor for Indian Recipes</p>
+      </div>
+    </div>
+    <nav class="tabs" role="tablist" aria-label="Sections">
+      <button role="tab" id="tab-extract" aria-selected="true" aria-controls="panel-extract" data-tab="extract">Extract</button>
+      <button role="tab" id="tab-metrics" aria-selected="false" aria-controls="panel-metrics" data-tab="metrics">Metrics</button>
+      <button role="tab" id="tab-about" aria-selected="false" aria-controls="panel-about" data-tab="about">The Recipe</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ================= EXTRACT ================= -->
+    <section id="panel-extract" role="tabpanel" aria-labelledby="tab-extract">
+      <div class="recipe-card">
+        <label for="input" class="card-label">Ingredients <span>— one per line</span></label>
+        <textarea id="input" rows="4" spellcheck="false"
+                  placeholder="2 tbsp ghee, 1 tsp jeera, 3 chopped onions"></textarea>
+        <div class="card-actions">
+          <div class="chips" aria-label="Quick-try dishes">
+            <span class="chips-label">Try:</span>
+            <button class="chip" data-dish="paneer">Paneer Butter Masala</button>
+            <button class="chip" data-dish="sambar">Sambar</button>
+            <button class="chip" data-dish="chole">Chole</button>
+            <button class="chip" data-dish="biryani">Biryani</button>
+          </div>
+          <button id="run" class="primary">Sort into the dabba</button>
+        </div>
+      </div>
+
+      <div class="mode-row">
+        <div class="segmented" role="radiogroup" aria-label="Tagger">
+          <button role="radio" aria-checked="true" data-mode="model">spaCy model</button>
+          <button role="radio" aria-checked="false" data-mode="baseline">Regex baseline</button>
+          <button role="radio" aria-checked="false" data-mode="compare">Side by side</button>
+        </div>
+        <span class="hint">Ctrl + Enter to run</span>
+      </div>
+
+      <div class="divider" aria-hidden="true"><span></span><svg><use href="#rangoli"/></svg><span></span></div>
+
+      <div id="status" class="status" hidden></div>
+
+      <div id="results" hidden>
+        <div class="results-head">
+          <ul class="legend" aria-label="Entity colours">
+            <li style="--c:var(--quantity)"><i></i>Quantity <small>haldi</small></li>
+            <li style="--c:var(--unit)"><i></i>Unit <small>elaichi</small></li>
+            <li style="--c:var(--ingredient)"><i></i>Ingredient <small>mirchi</small></li>
+            <li style="--c:var(--prep)"><i></i>Prep <small>kesar</small></li>
+          </ul>
+          <div class="segmented small" role="radiogroup" aria-label="View">
+            <button role="radio" aria-checked="true" data-view="highlight">Highlight</button>
+            <button role="radio" aria-checked="false" data-view="tokens">Tokens</button>
+            <button role="radio" aria-checked="false" data-view="thali">Thali</button>
+          </div>
+        </div>
+
+        <div class="tools-row" id="scale-row">
+          <span class="tools-label">Scale recipe</span>
+          <div class="segmented small" role="radiogroup" aria-label="Scale recipe">
+            <button role="radio" aria-checked="false" data-scale="0.5">½×</button>
+            <button role="radio" aria-checked="true" data-scale="1">1×</button>
+            <button role="radio" aria-checked="false" data-scale="2">2×</button>
+            <button role="radio" aria-checked="false" data-scale="3">3×</button>
+          </div>
+          <span class="hint">Only spans tagged QUANTITY change, so the tagger decides what gets scaled.</span>
+        </div>
+
+        <div id="highlight-view" class="highlight-view"></div>
+        <div id="tokens-view" class="tokens-view" hidden></div>
+        <div id="thali-view" class="thali-view" hidden></div>
+
+        <div class="table-head">
+          <h2>Extracted entities <small id="table-source"></small></h2>
+          <button id="copy" class="ghost">Copy JSON</button>
+        </div>
+        <div class="table-wrap">
+          <table id="entity-table">
+            <thead><tr><th>#</th><th>Line</th><th>Quantity</th><th>Unit</th><th>Ingredient</th><th>Prep</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= METRICS ================= -->
+    <section id="panel-metrics" role="tabpanel" aria-labelledby="tab-metrics" hidden>
+      <div id="metrics-status" class="status" hidden></div>
+      <div id="metrics"></div>
+    </section>
+
+    <!-- ================= THE RECIPE (about) ================= -->
+    <section id="panel-about" role="tabpanel" aria-labelledby="tab-about" hidden>
+      <article class="recipe-sheet">
+        <header class="rs-head">
+          <p class="rs-kicker">A recipe for</p>
+          <h2 class="rs-title">Masala Dabba</h2>
+          <p class="rs-tagline">Teaching a computer to read an Indian ingredient list, one spice at a time.</p>
+          <ul class="rs-facts" aria-label="At a glance">
+            <li><b>Serves</b> one NLP viva</li>
+            <li><b>Prep</b> 538 labelled lines</li>
+            <li><b>Cook</b> 30 epochs, CPU</li>
+            <li><b>Yield</b> <span data-fact="model-f1">0.95</span> F1</li>
+          </ul>
+        </header>
+
+        <div class="divider" aria-hidden="true"><span></span><svg><use href="#rangoli"/></svg><span></span></div>
+
+        <section class="rs-section">
+          <h3>Why this dish?</h3>
+          <p>A human reads <em>2 medium onions, finely chopped</em> and instantly knows the amount, the thing and what to do to it.
+          A computer sees only a string. This project trains a small <strong>named-entity recognition (NER)</strong> model to
+          pull four things out of any ingredient line, then measures it honestly against hand-written rules.</p>
+          <p class="rs-aside">The name: a <em>masala dabba</em> is the round steel spice box in every Indian kitchen, with a
+          compartment for each spice. The model's job is to sort each line into the right compartments.</p>
+        </section>
+
+        <section class="rs-section">
+          <h3>The four spices <small>what the model extracts</small></h3>
+          <ul class="spice-list">
+            <li style="--c:var(--quantity)"><i></i><div><b>QUANTITY</b> <span class="spice-name">haldi</span><p>How much: <code>2</code>, <code>1/2</code>, <code>2-3</code>, and words like <code>a pinch</code>, <code>to taste</code>.</p></div></li>
+            <li style="--c:var(--unit)"><i></i><div><b>UNIT</b> <span class="spice-name">elaichi</span><p>The measure: <code>tbsp</code>, <code>cup</code>, <code>inch</code>, or count words like <code>cloves</code> in <em>5 cloves garlic</em>.</p></div></li>
+            <li style="--c:var(--ingredient)"><i></i><div><b>INGREDIENT</b> <span class="spice-name">mirchi</span><p>The whole name, adjectives included: <code>green chilli</code>, <code>kashmiri red chilli powder</code>, <code>dhaniya patta</code>.</p></div></li>
+            <li style="--c:var(--prep)"><i></i><div><b>PREP</b> <span class="spice-name">kesar</span><p>What is done to it: <code>finely chopped</code>, <code>slit</code>, <code>soaked overnight</code>. Size words count too.</p></div></li>
+          </ul>
+        </section>
+
+        <section class="rs-section">
+          <h3>Ingredients <small>what went into the project</small></h3>
+          <ul class="rs-ingredients">
+            <li><b data-fact="lines">538</b> ingredient lines: <b data-fact="scraped">486</b> scraped from 36 recipes on Hebbar's Kitchen, Archana's Kitchen and Tarla Dalal, plus <b data-fact="manual">52</b> hand-written messy ones (typos, Hinglish, ranges)</li>
+            <li><b data-fact="entities">1,788</b> labelled entities, following written annotation guidelines</li>
+            <li><b data-fact="hinglish">41%</b> of lines contain a Roman-script Hindi or regional word (<em>jeera, haldi, adrak, lehsun</em>)</li>
+            <li>1 blank English <b>spaCy</b> pipeline: it knew nothing about food before training</li>
+            <li>1 regex baseline, written by hand, to keep the model honest</li>
+            <li>A laptop CPU. No GPU, no cloud</li>
+          </ul>
+        </section>
+
+        <section class="rs-section">
+          <h3>Method</h3>
+          <ol class="rs-steps">
+            <li><b>Gather.</b> Scrape the ingredient lists politely (2-second pauses), keep the mess: fractions, typos, <em>tbps</em>.</li>
+            <li><b>Label.</b> Mark every quantity, unit, ingredient and prep. Write down the rules for the awkward cases first, so <em>medium</em> is PREP every time, not just on Mondays.</li>
+            <li><b>Divide.</b> Split 70 / 15 / 15 into train, dev and test, with every label present in every part. The test set is sealed until the end.</li>
+            <li><b>Make the baseline.</b> Regex for numbers and ranges, word lists for units and prep, "the longest leftover run of words" for the ingredient.</li>
+            <li><b>Temper the model.</b> Train for 30 epochs. Each token becomes numbers from its spelling and shape, a small network peeks at its neighbours, and the NER head decides token by token. Keep the checkpoint with the best dev score.</li>
+            <li><b>Taste.</b> Score both systems on the sealed test set with exact-match precision, recall and F1.</li>
+            <li><b>Serve.</b> Wrap it in this app so the output can be seen, compared and even scaled.</li>
+          </ol>
+        </section>
+
+        <section class="rs-section">
+          <h3>Tasting notes <small>results on 82 held-out lines</small></h3>
+          <div class="rs-notes" id="tasting-notes">
+            <div class="rs-note" style="--c:var(--quantity)"><b>Quantity</b><span data-note="QUANTITY">1.00 vs 0.99</span><p>Numbers have a shape. Both systems get them.</p></div>
+            <div class="rs-note" style="--c:var(--unit)"><b>Unit</b><span data-note="UNIT">0.96 vs 0.99</span><p>A short fixed list. The rules win here.</p></div>
+            <div class="rs-note" style="--c:var(--ingredient)"><b>Ingredient</b><span data-note="INGREDIENT">0.95 vs 0.81</span><p>Open vocabulary and context. This is where learning pays off.</p></div>
+            <div class="rs-note" style="--c:var(--prep)"><b>Prep</b><span data-note="PREP">0.81 vs 0.78</span><p>Fewest examples, most varied wording. Hardest for both.</p></div>
+          </div>
+          <p class="rs-aside">Format: <b>model vs regex</b>, F1. Overall <b data-fact="overall">0.95 vs 0.90</b>. One lesson to take away: rules win when the vocabulary is a closed list; learning wins when the words around a token decide its meaning.</p>
+        </section>
+
+        <section class="rs-section">
+          <h3>Same word, different compartment <small>why context matters</small></h3>
+          <div class="rs-pairs">
+            <button class="rs-pair" data-try="4 cloves"><span>4 <mark class="I">cloves</mark></span><small>the spice</small></button>
+            <button class="rs-pair" data-try="5 cloves garlic"><span>5 <mark class="U">cloves</mark> garlic</span><small>a unit</small></button>
+            <button class="rs-pair" data-try="3 chopped onions"><span>3 <mark class="P">chopped</mark> onions</span><small>prep before</small></button>
+            <button class="rs-pair" data-try="2 onions finely chopped"><span>2 onions <mark class="P">finely chopped</mark></span><small>prep after</small></button>
+            <button class="rs-pair" data-try="salt to taste"><span>salt <mark class="Q">to taste</mark></span><small>a quantity with no number</small></button>
+            <button class="rs-pair" data-try="1 tsp zeera"><span>1 tsp <mark class="I">zeera</mark></span><small>jeera · zeera · cumin</small></button>
+          </div>
+          <p class="rs-aside">Click any card to run it in the Extract tab.</p>
+        </section>
+
+        <section class="rs-section">
+          <h3>Chef's notes <small>limits, said plainly</small></h3>
+          <ul class="rs-ingredients">
+            <li>The gold labels were produced by an LLM (Claude) following the written guidelines, with <b>no human review</b>. The labels can be audited in Label Studio.</li>
+            <li>82 test lines is small. One error moves F1 by about 0.4 points.</li>
+            <li>A known slip: in <em>2 medium onions</em> the model calls <em>medium</em> a UNIT. It learned the position after a number, not the word.</li>
+            <li>Roman script only, and three recipe sites. Handwritten or social-media recipes may behave differently.</li>
+          </ul>
+        </section>
+
+        <footer class="rs-foot">
+          <span>spaCy 3.8 · FastAPI · vanilla JS · model ≈ 6 MB · runs offline on a CPU</span>
+          <span>Full write-up in <code>README.md</code> · step-by-step course in <code>LEARN.md</code></span>
+        </footer>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    indian-recipe-ner · spaCy NER trained from blank English on 376 annotated lines · CPU
+  </footer>
+
+  <script src="/static/app.js?v=4"></script>
+</body>
+</html>

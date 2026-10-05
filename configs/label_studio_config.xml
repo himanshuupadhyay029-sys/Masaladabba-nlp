@@ -1,0 +1,10 @@
+<View>
+  <Header value="Label QUANTITY, UNIT, INGREDIENT, PREP (see PROJECT.md guidelines)"/>
+  <Labels name="label" toName="text">
+    <Label value="QUANTITY" background="#E8A317" hotkey="q"/>
+    <Label value="UNIT" background="#5B8C5A" hotkey="u"/>
+    <Label value="INGREDIENT" background="#C1442E" hotkey="i"/>
+    <Label value="PREP" background="#F26B1D" hotkey="p"/>
+  </Labels>
+  <Text name="text" value="$text" granularity="word"/>
+</View>

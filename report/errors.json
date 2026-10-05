@@ -1,0 +1,167 @@
+[
+ {
+  "text": "2 tomatos finely chopped",
+  "type": "wrong label",
+  "gold": {
+   "text": "tomatos",
+   "label": "INGREDIENT"
+  },
+  "pred": {
+   "text": "tomatos",
+   "label": "UNIT"
+  },
+  "causes": [
+   "unseen ingredient"
+  ]
+ },
+ {
+  "text": "2 tsp coriander-cumin seeds (dhania-jeera) powder",
+  "type": "boundary",
+  "gold": {
+   "text": "coriander-cumin seeds (dhania-jeera) powder",
+   "label": "INGREDIENT"
+  },
+  "pred": {
+   "text": "dhania-jeera",
+   "label": "INGREDIENT"
+  },
+  "causes": [
+   "unseen ingredient",
+   "Hinglish word"
+  ]
+ },
+ {
+  "text": "20 cubes paneer",
+  "type": "wrong label",
+  "gold": {
+   "text": "cubes",
+   "label": "UNIT"
+  },
+  "pred": {
+   "text": "cubes",
+   "label": "PREP"
+  },
+  "causes": [
+   "other"
+  ]
+ },
+ {
+  "text": "1 cup Onions fried",
+  "type": "wrong label",
+  "gold": {
+   "text": "fried",
+   "label": "PREP"
+  },
+  "pred": {
+   "text": "fried",
+   "label": "INGREDIENT"
+  },
+  "causes": [
+   "prep after ingredient"
+  ]
+ },
+ {
+  "text": "6 - 8 Cashew nuts soaked in 2 tablespoons water",
+  "type": "boundary",
+  "gold": {
+   "text": "soaked in 2 tablespoons water",
+   "label": "PREP"
+  },
+  "pred": {
+   "text": "soaked in 2",
+   "label": "PREP"
+  },
+  "causes": [
+   "prep after ingredient",
+   "number inside prep"
+  ]
+ },
+ {
+  "text": "1 cup Kabuli Chana (White Chickpeas) washed and soaked overnight.",
+  "type": "boundary",
+  "gold": {
+   "text": "washed and soaked overnight",
+   "label": "PREP"
+  },
+  "pred": {
+   "text": "washed and soaked overnight.",
+   "label": "PREP"
+  },
+  "causes": [
+   "prep after ingredient"
+  ]
+ },
+ {
+  "text": "1 black cardamom",
+  "type": "boundary",
+  "gold": {
+   "text": "black cardamom",
+   "label": "INGREDIENT"
+  },
+  "pred": {
+   "text": "cardamom",
+   "label": "INGREDIENT"
+  },
+  "causes": [
+   "unseen ingredient"
+  ]
+ },
+ {
+  "text": "1/4 cup boiled green peas",
+  "type": "boundary",
+  "gold": {
+   "text": "boiled",
+   "label": "PREP"
+  },
+  "pred": {
+   "text": "boiled green peas",
+   "label": "PREP"
+  },
+  "causes": [
+   "other"
+  ]
+ },
+ {
+  "text": "1/4 cup boiled green peas",
+  "type": "boundary",
+  "gold": {
+   "text": "green peas",
+   "label": "INGREDIENT"
+  },
+  "pred": {
+   "text": "boiled green peas",
+   "label": "PREP"
+  },
+  "causes": [
+   "unseen ingredient"
+  ]
+ },
+ {
+  "text": "½ small sized capsicum (finely chopped (colour of your choice))",
+  "type": "boundary",
+  "gold": {
+   "text": "small sized",
+   "label": "PREP"
+  },
+  "pred": {
+   "text": "small",
+   "label": "PREP"
+  },
+  "causes": [
+   "other"
+  ]
+ },
+ {
+  "text": "½ small sized capsicum (finely chopped (colour of your choice))",
+  "type": "spurious",
+  "gold": null,
+  "pred": {
+   "text": "colour",
+   "label": "INGREDIENT"
+  },
+  "causes": [
+   "unseen ingredient",
+   "inside brackets"
+  ]
+ }
+]

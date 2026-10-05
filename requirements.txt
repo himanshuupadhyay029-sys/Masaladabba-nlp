@@ -1,0 +1,9 @@
+spacy>=3.7
+label-studio
+pandas
+scikit-learn
+requests
+beautifulsoup4
+fastapi
+uvicorn
+matplotlib

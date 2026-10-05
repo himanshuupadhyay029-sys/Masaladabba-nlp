@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Trained models (large, reproducible via train.py)
+models/
+
+# Label Studio local data (database, media, exports cache)
+label_studio_data/
+.label-studio/
+label-studio/
+mydata/
+*.sqlite3
+
+# Generated documents (report / slides PDFs), kept on the local machine only
+docs_output/
+
+# Local tool state and secrets
+.claude/
+.env

@@ -1,0 +1,538 @@
+[[2|Q]] [[tbsp|U]] [[oil|I]]
+[[1|Q]] [[tsp|U]] [[butter|I]]
+[[1|Q]] [[tsp|U]] [[cumin|I]]
+[[1|Q]] [[inch|U]] [[cinnamon|I]]
+[[4|Q]] [[cloves|I]]
+[[1|Q]] [[pod|U]] [[black cardamom|I]]
+[[1|Q]] [[bay leaf|I]]
+[[2|Q]] [[onion|I]] ([[sliced|P]])
+[[5|Q]] [[cloves|U]] [[garlic|I]]
+[[1|Q]] [[inch|U]] [[ginger|I]]
+[[3|Q]] [[tomato|I]] ([[sliced|P]])
+[[3|Q]] [[tbsp|U]] [[cashew|I]]
+[[1|Q]] [[cup|U]] [[water|I]]
+[[2|Q]] [[tsp|U]] [[oil|I]]
+[[1|Q]] [[tbsp|U]] [[butter|I]]
+[[½|Q]] [[tsp|U]] [[turmeric|I]]
+[[1|Q]] [[tsp|U]] [[chilli powder|I]]
+[[½|Q]] [[tsp|U]] [[cumin powder|I]]
+[[½|Q]] [[tsp|U]] [[coriander powder|I]]
+[[½|Q]] [[tsp|U]] [[garam masala|I]]
+[[1|Q]] [[tsp|U]] [[salt|I]]
+[[1|Q]] [[tsp|U]] [[sugar|I]]
+[[2|Q]] [[tbsp|U]] [[cream|I]]
+[[20|Q]] [[cubes|U]] [[paneer|I]]
+[[2|Q]] [[tbsp|U]] [[kasuri methi|I]] ([[crushed|P]])
+[[2|Q]] [[tbsp|U]] [[coriander|I]] ([[finely chopped|P]])
+[[1|Q]] [[tbsp|U]] [[coriander seeds|I]]
+[[1|Q]] [[tbsp|U]] [[chana dal|I]]
+[[½|Q]] [[tsp|U]] [[cumin|I]] / [[jeera|I]]
+[[¼|Q]] [[tsp|U]] [[methi|I]] / [[fenugreek seeds|I]]
+[[½|Q]] [[tsp|U]] [[pepper|I]]
+[[4|Q]] [[dried kashmiri red chilli|I]]
+[[few|Q]] [[curry leaves|I]]
+[[2|Q]] [[tbsp|U]] [[coconut|I]] ([[grated|P]])
+[[1|Q]] [[cup|U]] [[tamarind extract|I]]
+[[1|Q]] [[tsp|U]] [[jaggery|I]]
+[[2|Q]] [[green chilli|I]] ([[slit|P]])
+[[½|Q]] [[onion|I]] ([[petals|P]])
+[[5|Q]] [[beans|I]] ([[chopped|P]])
+[[1|Q]] [[carrot|I]] ([[chopped|P]])
+[[2|Q]] [[drumsticks|I]] ([[chopped|P]])
+[[1|Q]] [[tomato|I]] ([[chopped|P]])
+[[1½|Q]] [[cup|U]] [[toor dal|I]] ([[cooked|P]])
+[[1|Q]] [[tsp|U]] [[mustard|I]] / [[rai|I]]
+[[1|Q]] [[dried kashmiri red chilli|I]]
+[[½|Q]] [[cup|U]] [[moong dal|I]]
+[[¼|Q]] [[tsp|U]] [[turmeric|I]]
+[[½|Q]] [[tsp|U]] [[ghee|I]]
+[[1½|Q]] [[cup|U]] [[water|I]]
+[[¼|Q]] [[cup|U]] [[ghee|I]]
+[[2|Q]] [[tsp|U]] [[pepper|I]]
+[[1|Q]] [[inch|U]] [[ginger|I]] ([[chopped|P]])
+[[2|Q]] [[chilli|I]] ([[slit|P]])
+[[2|Q]] [[tbsp|U]] [[cashew|I]]
+[[pinch|Q]] [[hing|I]]
+[[1|Q]] [[cup|U]] [[rava|I]] ([[coarse|P]])
+[[1½|Q]] [[tsp|U]] [[salt|I]]
+[[3|Q]] [[cup|U]] [[water|I]]
+[[½|Q]] [[cup|U]] [[toor dal|I]]
+[[1|Q]] [[to mato|I]]
+[[¼|Q]] [[tsp|U]] [[turmeric|I]] / [[haldi|I]]
+[[3|Q]] [[tsp|U]] [[oil|I]]
+[[pinch|Q]] of [[hing|I]] / [[asaofetida|I]]
+[[1|Q]] [[dried red chilli|I]]
+[[½|Q]] [[cup|U]] [[tamarind extract|I]]
+[[½|Q]] [[tsp|U]] [[jaggery|I]] / [[gud|I]]
+[[1|Q]] [[tbsp|U]] [[sambar powder|I]]
+[[1|Q]] [[tbsp|U]] [[ghee|I]] / [[clarified butter|I]]
+[[1|Q]] [[cup|U]] [[urad dal|I]]
+[[2|Q]] [[green chilli|I]] ([[finely chopped|P]])
+[[1|Q]] [[inch|U]] [[ginger|I]] ([[finely chopped|P]])
+[[few|Q]] [[curry leaves|I]] ([[finely chopped|P]])
+[[1|Q]] [[tbsp|U]] [[dry coconut|I]] / [[kopra|I]] ([[chopped|P]])
+[[pinch|Q]] of [[hing|I]] / [[asafoetida|I]]
+[[2|Q]] [[tbsp|U]] [[rice flour|I]]
+[[½|Q]] [[tsp|U]] [[salt|I]]
+[[oil|I]] for deep frying
+[[1|Q]] [[tsp|U]] [[oil|I]]
+[[1|Q]] [[tsp|U]] [[coriander seeds|I]]
+[[¼|Q]] [[tsp|U]] [[methi|I]]
+[[6|Q]] [[dried red chilli|I]]
+[[½|Q]] [[cup|U]] [[water|I]] (for grinding)
+[[1|Q]] [[cup|U]] [[rice|I]]
+[[½|Q]] [[cup|U]] [[toor dal|I]] ([[soaked 20 minutes|P]])
+[[4½|Q]] [[cup|U]] [[water|I]]
+[[1|Q]] [[tbsp|U]] [[ghee|I]]
+[[1|Q]] [[tsp|U]] [[mustard|I]]
+[[2|Q]] [[dried red chilli|I]]
+[[6|Q]] [[shallots|I]] ([[halves|P]])
+[[1|Q]] [[potato|I]] ([[chopped|P]])
+[[15|Q]] [[piece|U]] [[drumstick|I]]
+[[6|Q]] [[beans|I]] ([[chopped|P]])
+[[water|I]] ([[as required|Q]])
+[[6|Q]] [[slices|U]] [[bread|I]] (white / wholemeal)
+[[½|Q]] [[tsp|U]] [[mustard seeds|I]] / [[rai|I]]
+[[few|Q]] [[curry leaves|I]] / [[kadi patta|I]]
+[[½|Q]] [[medium sized|P]] [[onion|I]] ([[finely chopped|P]])
+[[1|Q]] [[green chilli|I]] ([[slit lengthwise|P]])
+[[½|Q]] [[tsp|U]] [[ginger paste|I]] / [[adrak paste|I]]
+[[2|Q]] [[medium sized|P]] [[tomatoes|I]] ([[finely chopped|P]])
+[[½|Q]] [[tsp|U]] [[turmeric|I]] / [[haldi|I]]
+[[1|Q]] [[tsp|U]] [[kashmiri red chili pwoder|I]] / [[lal mirch powder|I]]
+[[½|Q]] [[tsp|U]] [[sugar|I]]
+[[salt|I]] [[to taste|Q]]
+[[½|Q]] [[small sized|P]] [[capsicum|I]] ([[finely chopped|P]] (colour of your choice))
+[[2|Q]] [[tbsp|U]] [[water|I]] (if required)
+[[3|Q]] [[tbsp|U]] [[coriander leaves|I]] ([[finely chopped|P]])
+[[1|Q]] [[cup|U]] [[rajma|I]] / [[kidney beans|I]] ([[soaked overnight|P]])
+[[2|Q]] [[tbsp|U]] [[ghee|I]]
+[[5|Q]] [[cloves|I]]
+[[1|Q]] [[black cardamom|I]]
+[[1|Q]] [[javetri|I]]
+[[2|Q]] [[onion|I]] ([[finely chopped|P]])
+[[1|Q]] [[tbsp|U]] [[ginger garlic paste|I]]
+[[1|Q]] [[tbsp|U]] [[chilli powder|I]]
+[[1|Q]] [[tsp|U]] [[coriander powder|I]]
+[[3|Q]] [[tomato|I]] ([[finely chopped|P]])
+[[3|Q]] [[chilli|I]]
+[[3|Q]] [[clove|U]] [[garlic|I]] ([[chopped|P]])
+[[1|Q]] [[onion|I]] ([[finely chopped|P]])
+[[4|Q]] [[green chilli|I]]
+[[1|Q]] [[bunch|U]] [[spinach|I]] / [[palak|I]] ([[chopped|P]])
+[[½|Q]] [[cup|U]] [[water|I]]
+[[4|Q]] [[tsp|U]] [[oil|I]]
+[[13|Q]] [[baby potatoes|I]] / [[aloo|I]] ([[boiled & peeled|P]])
+[[1|Q]] [[tsp|U]] [[jeera|I]] / [[cumin|I]]
+[[1|Q]] [[inch|U]] [[cinnamon stick|I]] / [[dalchini|I]]
+[[½|Q]] [[onion|I]] ([[finely chopped|P]])
+[[1|Q]] [[bay leaf|I]] / [[tej patta|I]]
+[[1|Q]] [[to mato|I]] ([[finely chopped|P]])
+[[½|Q]] [[cup|U]] [[water|I]] (or [[as required|Q]])
+[[1|Q]] [[tsp|U]] [[kasuri methi|I]] / [[dry fenugreek leaves|I]] ([[crushed|P]])
+[[15|Q]] [[florets|U]] [[gobi|I]] / [[cauliflower|I]]
+[[1|Q]] [[potato|I]] ([[cubed|P]])
+[[½|Q]] [[tsp|U]] [[cloves|I]]
+[[1|Q]] [[cup|U]] [[tomato cashew paste|I]]
+[[2|Q]] [[tbsp|U]] [[curd|I]]
+[[2|Q]] [[tbsp|U]] [[coriander|I]] ([[chopped|P]])
+[[20|Q]] [[baby potato|I]] ([[boiled & peeled|P]])
+[[oil|I]] (for frying)
+[[3|Q]] [[tbsp|U]] [[oil|I]]
+[[2|Q]] [[bay leaf|I]]
+[[3|Q]] [[pod|U]] [[green crardamom|I]]
+[[1|Q]] [[tsp|U]] [[ginger garlic paste|I]]
+[[1½|Q]] [[cup|U]] [[tomato puree|I]]
+[[¼|Q]] [[cup|U]] [[cashew paste|I]]
+[[¼|Q]] [[cup|U]] [[curd|I]]
+[[2|Q]] [[cup|U]] [[water|I]] ([[hot|P]])
+[[¼|Q]] [[tsp|U]] [[pepper|I]]
+[[1|Q]] [[star anise|I]]
+[[4|Q]] [[clove|I]] / [[lavang|I]]
+[[½|Q]] [[onion|I]] ([[thinly sliced|P]])
+[[1|Q]] [[cup|U]] [[rajma|I]] / [[red kidney beans|I]] ([[soaked overnight & boiled 10 minutes|P]])
+[[1|Q]] [[tsp|U]] [[kashmiri red chilli powder|I]] / [[lal mirch powder|I]]
+[[2|Q]] [[tbsp|U]] [[coriander leaves|I]] ([[finely chopped|P]])
+[[1|Q]] [[cup|U]] [[basmati rice|I]] ([[soaked 20 minutes|P]])
+[[2|Q]] [[cup|U]] [[water|I]]
+[[¼|Q]] [[cup|U]] [[toor dal|I]]
+[[¼|Q]] [[cup|U]] [[chana dal|I]]
+[[¼|Q]] [[moong dal|I]]
+[[¼|Q]] [[cup|U]] [[masoor dal|I]]
+[[1|Q]] [[tsp|U]] [[cumin|I]] / [[jeera|I]]
+[[3|Q]] [[pods|U]] [[cardamom|I]]
+[[2|Q]] [[dried red chilli|I]] ([[broken|P]])
+[[1|Q]] [[tomato|I]] ([[finely chopped|P]])
+[[¼|Q]] [[tsp|U]] [[garam masala|I]]
+[[1|Q]] [[bunch|U]] [[palak|I]] / [[spinach|I]] ([[finely chopped|P]])
+[[2|Q]] [[tomato|I]]
+[[2|Q]] [[tbsp|U]] [[roasted|P]] [[peanut|I]]
+[[10|Q]] [[cloves|U]] [[garlic|I]]
+[[½|Q]] [[tbsp|U]] [[sesame|I]]
+[[2|Q]] [[tbps|U]] [[oil|I]]
+[[½|Q]] [[tsp|U]] [[cumin|I]]
+[[5|Q]] [[cloves|U]] [[garlic|I]] ([[finely chopped|P]])
+[[2|Q]] [[tbsp|U]] [[besan|I]]
+[[1|Q]] [[tsp|U]] [[sesame|I]]
+[[½|Q]] [[tsp|U]] [[chilli powder|I]]
+[[1|Q]] [[cup|U]] [[Rice|I]] [[washed and soaked|P]]
+[[1|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[1|Q]] [[clove|U]] [[Cloves|I]] ([[Laung|I]])
+[[1|Q]] [[inch|U]] [[Cinnamon Stick|I]] ([[Dalchini|I]])
+[[1|Q]] [[Bay leaf|I]] ([[tej patta|I]])
+[[1/2|Q]] [[cup|U]] [[Milk|I]]
+[[1 1/2|Q]] [[cup|U]] [[Water|I]]
+[[1|Q]] [[teaspoon|U]] [[Ghee|I]]
+[[Salt|I]] [[Salt|I]] [[to taste|Q]]
+[[1/2|Q]] [[cup|U]] [[Onions|I]] [[sliced|P]]
+[[2|Q]] [[teaspoons|U]] [[Oil|I]]
+[[1|Q]] [[Potato|I]] ([[Aloo|I]]) [[cut into cubes & soaked in salt water|P]]
+[[1/2|Q]] [[teaspoon|U]] [[Amchur|I]] ([[Dry Mango Powder|I]])
+[[1/2|Q]] [[teaspoon|U]] [[Red Chilli powder|I]]
+[[1/2|Q]] [[Cumin powder|I]] ([[Jeera|I]])
+[[1/4|Q]] [[cup|U]] [[Coriander (Dhania) Leaves|I]] [[chopped|P]]
+[[1/4|Q]] [[cup|U]] [[Mint Leaves|I]] ([[Pudina|I]])
+[[1|Q]] [[cup|U]] [[Kabuli Chana|I]] ([[White Chickpeas|I]]) [[washed and soaked overnight|P]].
+[[6|Q]] [[cloves|U]] [[Garlic|I]] [[chopped|P]]
+[[1|Q]] [[inch|U]] [[Ginger|I]] [[chopped|P]]
+[[1|Q]] [[Green Chilli|I]] [[finely chopped|P]]
+[[1|Q]] [[teaspoon|U]] [[Garam masala powder|I]]
+[[1|Q]] [[teaspoon|U]] [[Red Chilli powder|I]]
+[[1/4|Q]] [[cup|U]] [[Curd|I]] ([[Dahi|I]] / [[Yogurt|I]]) [[whisked|P]]
+[[1/2|Q]] [[teaspoon|U]] [[Turmeric powder|I]] ([[Haldi|I]])
+[[1|Q]] [[Tomatoes|I]] [[finely chopped|P]]
+[[1|Q]] [[tablespoon|U]] [[Ghee|I]]
+[[600|Q]] [[grams|U]] [[Chicken|I]] [[cleaned and cut to required size|P]]
+[[1|Q]] [[teaspoon|U]] [[Salt|I]]
+[[6|Q]] [[cloves|U]] [[Garlic|I]]
+[[4|Q]] [[Cloves|I]] ([[Laung|I]])
+[[2|Q]] [[teaspoon|U]] [[Poppy seeds|I]]
+[[2|Q]] [[tablespoons|U]] [[Dry coconut|I]] ([[kopra|I]])
+[[1/4|Q]] [[cup|U]] [[Hot water|I]] for grinding
+[[2|Q]] [[tablespoons|U]] [[Oil|I]]
+[[1/2|Q]] [[inch|U]] [[Cinnamon Stick|I]] ([[Dalchini|I]])
+[[3|Q]] [[Cloves|I]] ([[Laung|I]])
+[[1|Q]] [[Onion|I]] [[finely chopped|P]]
+[[2|Q]] [[Green Chillies|I]] [[finely chopped|P]]
+[[1|Q]] [[sprig|U]] [[Curry leaves|I]]
+[[1|Q]] [[teaspoons|U]] [[Red Chilli powder|I]] (Adjust to suit your spice levels)
+[[1/4|Q]] [[teaspoon|U]] [[Turmeric powder|I]] ([[Haldi|I]])
+[[Salt|I]] [[as required|Q]]
+[[1/2|Q]] [[teaspoon|U]] [[Garam masala powder|I]]
+[[1/2|Q]] [[cup|U]] [[Coriander (Dhania) Leaves|I]] [[finely chopped|P]]
+[[500|Q]] [[grams|U]] [[Mutton|I]]
+[[1/2|Q]] [[cup|U]] [[Shallots|I]]
+[[1/3|Q]] [[cup|U]] [[Tomatoes|I]]
+[[2|Q]] [[sprig|U]] [[Curry leaves|I]]
+[[1|Q]] [[Green Chilli|I]]
+[[1|Q]] [[teaspoon|U]] [[Cumin seeds|I]] ([[Jeera|I]])
+[[1|Q]] [[tablespoon|U]] [[Red Chilli powder|I]]
+[[Fresh coconut|I]] [[few|Q]] [[sliced|P]] [[pieces|U]]
+[[1|Q]] [[tablespoon|U]] [[Coconut Oil|I]]
+[[1|Q]] [[tablespoon|U]] [[Coriander (Dhania) Seeds|I]]
+[[8|Q]] [[Dry Red Chillies|I]]
+[[8|Q]] [[cloves|U]] [[Garlic|I]]
+[[2|Q]] [[inch|U]] [[Ginger|I]]
+[[1|Q]] [[teaspoon|U]] [[Fennel seeds|I]] ([[Saunf|I]])
+[[1-1/2|Q]] [[teaspoon|U]] [[Whole Black Peppercorns|I]]
+[[2|Q]] [[Cardamom Powder|I]] ([[Elaichi|I]])
+[[1/2|Q]] [[cup|U]] [[Fresh coconut|I]] [[grated|P]]
+[[1|Q]] [[teaspoon|U]] [[Coconut Oil|I]]
+[[1|Q]] [[kg|U]] [[Mutton|I]]
+[[3|Q]] [[Potato|I]] ([[Aloo|I]]) [[peeled and cut into halves|P]]
+[[2|Q]] [[cups|U]] [[Onion|I]] [[finely chopped|P]]
+[[2|Q]] [[tablespoon|U]] [[Onions paste|I]]
+[[2|Q]] [[tablespoon|U]] [[Garlic paste|I]]
+[[2|Q]] [[tablespoon|U]] [[Ginger paste|I]]
+[[1|Q]] [[teaspoon|U]] [[Cumin powder|I]] ([[Jeera|I]])
+[[1-1/2|Q]] [[teaspoon|U]] [[Coriander Powder|I]] ([[Dhania|I]])
+[[1|Q]] [[teaspoon|U]] [[Turmeric powder|I]] ([[Haldi|I]])
+[[2|Q]] [[teaspoons|U]] [[Red Chilli powder|I]] or as per your heat tolerance
+[[1|Q]] [[tablespoon|U]] [[Vinegar|I]]
+[[2|Q]] [[tablespoons|U]] [[Mustard oil|I]] + [[1/2|Q]] [[cup|U]]
+[[150|Q]] [[grams|U]] [[Curd|I]] ([[Dahi|I]] / [[Yogurt|I]])
+[[4|Q]] [[teaspoons|U]] [[Ghee|I]]
+[[1|Q]] [[teaspoon|U]] [[Sugar|I]]
+[[2|Q]] [[Bay leaf|I]] ([[tej patta|I]])
+[[2|Q]] [[Dry Red Chillies|I]]
+[[4|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[1|Q]] [[Cinnamon Stick|I]] ([[Dalchini|I]])
+[[4|Q]] [[Whole Eggs|I]] [[hard boiled|P]]
+[[6|Q]] [[Tomatoes|I]] [[cooked and pureed|P]]
+[[1|Q]] [[teaspoon|U]] [[Coriander Powder|I]] ([[Dhania|I]])
+[[1/2|Q]] [[teaspoon|U]] [[Sugar|I]]
+[[Coriander (Dhania) Leaves|I]] [[few|Q]] [[leaves|U]], [[finely chopped|P]]
+[[Oil|I]] for cooking
+[[1|Q]] [[Onion|I]] [[roughly chopped|P]]
+[[1|Q]] [[inch|U]] [[Ginger|I]] [[roughly chopped|P]]
+[[3|Q]] [[cloves|U]] [[Garlic|I]]
+[[2|Q]] [[Green Chillies|I]]
+[[500|Q]] [[grams|U]] [[Chicken|I]] (chicken with bones gives better taste)
+[[1|Q]] [[Lemon|I]] [[juice extracted|P]]
+[[2|Q]] [[Onion|I]] [[finely chopped|P]]
+[[5|Q]] [[cloves|U]] [[Garlic|I]] [[finely chopped|P]]
+[[1|Q]] [[inch|U]] [[Ginger|I]] [[finely chopped|P]]
+[[1|Q]] [[Tomato|I]] [[finely chopped|P]]
+[[2|Q]] [[sprig|U]] [[Curry leaves|I]] [[roughly torn|P]]
+[[1|Q]] [[teaspoon|U]] [[Cumin powder|I]] ([[Jeera|I]]) [[roasted|P]]
+[[1|Q]] [[teaspoon|U]] [[Fennel Powder|I]] [[roasted|P]]
+[[1|Q]] [[tablespoon|U]] [[Coriander Powder|I]] ([[Dhania|I]]) [[roasted|P]]
+[[2-1/2|Q]] [[tablespoon|U]] [[Black pepper powder|I]]
+[[Oil|I]] [[as required|Q]]
+[[Water|I]] [[as required|Q]]
+[[Coriander (Dhania) Leaves|I]] for garnish
+[[200|Q]] [[grams|U]] [[Chicken|I]] [[minced|P]]
+[[1-1/2|Q]] [[cup|U]] [[Basmati rice|I]]
+[[2|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[6|Q]] [[Cloves|I]] ([[Laung|I]])
+[[8|Q]] [[Whole Black Peppercorns|I]]
+[[1|Q]] [[Onion|I]] [[chopped|P]]
+[[1|Q]] [[tablespoon|U]] [[Garlic paste|I]]
+[[1|Q]] [[tablespoon|U]] [[Ginger paste|I]]
+[[2|Q]] [[Tomatoes|I]] [[chopped|P]]
+[[3|Q]] [[Green Chillies|I]] [[chopped|P]]
+[[2|Q]] [[tablespoons|U]] [[Coriander (Dhania) Leaves|I]] [[chopped|P]]
+[[15|Q]] [[Mint Leaves|I]] ([[Pudina|I]])
+[[1|Q]] [[cup|U]] [[Onions|I]] [[fried|P]]
+[[Extra Virgin Olive Oil|I]] [[as required|Q]]
+[[3|Q]] [[cups|U]] [[Basmati rice|I]] [[soaked for 25-35 minutes|P]]
+[[6|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[1|Q]] [[teaspoon|U]] [[Coriander (Dhania) Leaves|I]] [[finely chopped|P]]
+[[1|Q]] [[teaspoon|U]] [[Mint Leaves|I]] ([[Pudina|I]]) [[finely chopped|P]]
+[[3|Q]] [[tablespoons|U]] [[Ghee|I]]
+[[3-4|Q]] [[tablespoons|U]] [[Lemon juice|I]]
+[[1/2|Q]] [[kg|U]] [[Prawns|I]] [[cleaned and deveined|P]]
+[[1|Q]] [[tablespoon|U]] [[Ginger Garlic Paste|I]]
+[[1/2|Q]] [[tablespoon|U]] [[Red Chilli powder|I]]
+[[1/2|Q]] [[teaspoon|U]] [[Whole Black Peppercorns|I]] [[ground|P]]
+[[3|Q]] [[Onions|I]] [[finely chopped|P]]
+[[1/2|Q]] [[tablespoon|U]] [[Ginger paste|I]]
+[[1/2|Q]] [[tablespoon|U]] [[Garlic paste|I]]
+[[5 - 6|Q]] [[Green Chillies|I]]
+[[2 - 3|Q]] [[Tomatoes|I]] [[finely chopped|P]]
+[[1|Q]] [[Fresh coconut|I]] [[handful|Q]], [[grated|P]]
+[[1|Q]] [[Coriander (Dhania) Leaves|I]] [[handful|Q]]
+[[1/4|Q]] [[cup|U]] [[Mint Leaves|I]] ([[Pudina|I]]) [[finely chopped|P]]
+[[1/2|Q]] [[cup|U]] [[Curd|I]] ([[Dahi|I]] / [[Yogurt|I]])
+[[6 - 8|Q]] [[Cashew nuts|I]] [[soaked in 2 tablespoons water|P]]
+[[Oil|I]] [[vegetable oil|I]]
+[[1|Q]] [[Salt|I]] [[to taste|Q]]
+[[1|Q]] [[Cashew nuts|I]] [[handful|Q]]
+[[1|Q]] [[Sultana Raisins|I]] [[handful|Q]]
+[[1|Q]] [[Onion|I]] [[finely sliced|P]]
+[[250|Q]] [[grams|U]] [[Bhindi|I]] ([[Lady Finger|I]]/[[Okra|I]]) [[cut into 1/2 inch pieces|P]]
+[[1|Q]] [[tablespoon|U]] [[Mustard oil|I]]
+[[500|Q]] [[grams|U]] [[Chicken|I]] [[cut into 1/2 inch pieces|P]]
+[[2|Q]] [[tablespoons|U]] [[Mustard oil|I]]
+[[2|Q]] [[Green Chillies|I]] [[slit|P]]
+[[2|Q]] [[Onions|I]] [[finely chopped|P]]
+[[8|Q]] [[cloves|U]] [[Garlic|I]] [[finely chopped|P]]
+[[1|Q]] [[cup|U]] [[Homemade tomato puree|I]]
+[[2|Q]] [[teaspoons|U]] [[Coriander Powder|I]] ([[Dhania|I]])
+[[2|Q]] [[teaspoons|U]] [[Garam masala powder|I]]
+[[1|Q]] [[tablespoon|U]] [[Kasuri Methi|I]] ([[Dried Fenugreek Leaves|I]])
+[[Coriander (Dhania) Leaves|I]] [[small|P]] [[bunch|U]],[[chopped|P]], for garnish
+[[1|Q]] [[tablespoon|U]] [[Ajwain|I]] ([[Carom seeds|I]])
+[[1|Q]] [[tablespoon|U]] [[Fennel seeds|I]] ([[Saunf|I]])
+[[5|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[5|Q]] [[Clove powder|I]] ([[Laung|I]])
+[[4|Q]] [[Cinnamon Stick|I]] ([[Dalchini|I]])
+[[2|Q]] [[Onions|I]] [[finely sliced|P]]
+[[2|Q]] [[Bay leaves|I]] ([[tej patta|I]])
+[[3|Q]] [[Cardamom|I]] ([[Elaichi|I]]) Pods/Seeds
+[[2|Q]] [[cups|U]] [[Basmati rice|I]]
+[[1-1/2|Q]] [[cups|U]] [[Prawns|I]] [[cleaned and deveined|P]]
+[[1/4|Q]] [[tablespoon|U]] [[Turmeric powder|I]] ([[Haldi|I]])
+[[1/2|Q]] [[Lemon|I]]
+[[1|Q]] [[cup|U]] [[Mint Leaves|I]] ([[Pudina|I]]) [[chopped|P]]
+[[1|Q]] [[cup|U]] [[Vellai Poosanikai|I]] ([[Ash gourd|I]]/[[White Pumpkin|I]]) [[cut lengthwise|P]]
+[[2|Q]] [[Drumstick|I]] [[cut lengthwise|P]]
+[[2|Q]] [[Carrots|I]] ([[Gajjar|I]]) [[cut lengthwise|P]]
+[[10|Q]] [[Green beans|I]] ([[French Beans|I]]) [[cut lengthwise|P]]
+[[1|Q]] [[Raw Banana|I]] [[peeled and cut lengthwise|P]]
+[[2|Q]] [[Potatoes|I]] ([[Aloo|I]]) [[peeled and cut lengthwise|P]]
+[[1|Q]] [[cup|U]] [[Elephant yam|I]] ([[Suran|I]]/[[Senai|I]]/[[Ratalu|I]]) [[peeled and cut lengthwise|P]]
+[[1-1/2|Q]] [[cups|U]] [[Fresh coconut|I]] [[grated|P]]
+[[3|Q]] [[Green Chillies|I]]
+[[1|Q]] [[tablespoons|U]] [[Coconut Oil|I]]
+[[5|Q]] [[Drumstick|I]] [[cut into 3 inch pieces|P]]
+[[1|Q]] [[teaspoon|U]] [[Mustard seeds|I]] ([[Rai|I]]/ [[Kadugu|I]])
+[[2|Q]] [[teaspoons|U]] [[Coconut Oil|I]]
+[[Water|I]] [[as needed|Q]]
+[[200|Q]] [[grams|U]] [[Avarekai|I]] ([[Broad Beans|I]]) [[chopped|P]]
+[[1/2|Q]] [[cup|U]] [[Yellow Moong Dal|I]] (Split) [[cooked|P]]
+[[1/2|Q]] [[cup|U]] [[Fresh coconut|I]]
+[[4|Q]] [[Dry Red Chillies|I]]
+[[Curry leaves|I]]
+[[1/4|Q]] [[teaspoon|U]] [[Mustard seeds|I]] ([[Rai|I]]/ [[Kadugu|I]])
+[[1|Q]] [[teaspoon|U]] [[White Urad Dal|I]] (Split)
+[[300|Q]] [[grams|U]] [[Green Chawli Beans|I]] ([[Yard long beans|I]]/[[Karamani|I]]/[[Barbati|I]]) [[chopped|P]]
+[[8|Q]] [[Curry leaves|I]]
+[[1/4|Q]] [[cup|U]] [[Fresh coconut|I]] [[grated|P]]
+[[3/4|Q]] [[cup|U]] [[whole whole urad|I]] ([[whole black lentil|I]])
+[[2|Q]] [[tbsp|U]] [[rajma|I]] ([[kidney beans|I]])
+[[salt|I]] ([[namak|I]]) [[to taste|Q]]
+[[3|Q]] [[tbsp|U]] [[butter|I]]
+[[1|Q]] [[tsp|U]] [[cumin seeds|I]] ([[jeera|I]])
+[[2|Q]] [[green chillies|I]] ([[hari mirchi|I]]) , [[cut lengthwise|P]]
+[[25|Q]] [[mm|U]] [[stick|U]] [[dalchini|I]] ([[cinnamon|I]])
+[[2|Q]] [[clove|I]] ([[laung|I]] / [[lavang|I]])
+[[3|Q]] [[elaichi|I]] ( [[green cardamom|I]] )
+[[1/2|Q]] [[cup|U]] [[finely chopped|P]] [[onion|I]]
+[[1/2|Q]] [[tsp|U]] [[ginger-garlic (adrak-lehsun) paste|I]]
+[[1|Q]] [[tsp|U]] [[red chilli powder|I]]
+[[1/4|Q]] [[tsp|U]] [[haldi powder|I]] ([[turmeric powder|I]])
+[[1 1/2|Q]] [[cups|U]] [[fresh tomato pulp|I]]
+[[1/2|Q]] [[cup|U]] [[cream|I]]
+[[2|Q]] [[tbsp|U]] [[chopped|P]] [[coriander|I]] ([[dhania|I]])
+[[1|Q]] [[tbsp|U]] [[fresh cream|I]] for the garnish
+[[1/4|Q]] [[cup|U]] [[rajma|I]] ([[kidney beans|I]])
+[[1/4|Q]] [[cup|U]] [[chana dal|I]] ([[split Bengal gram|I]])
+[[1/2|Q]] [[cup|U]] [[chilkewali urad dal|I]] ([[spit black gram with skin|I]])
+[[1|Q]] [[tbsp|U]] [[finely chopped|P]] [[garlic|I]] ([[lehsun|I]])
+[[1|Q]] [[tsp|U]] [[green chilli paste|I]]
+[[3/4|Q]] [[cup|U]] [[finely chopped|P]] [[tomato|I]]
+[[1/2|Q]] [[tsp|U]] [[haldi powder|I]] ([[turmeric powder|I]])
+[[2|Q]] [[tsp|U]] [[coriander-cumin seeds (dhania-jeera) powder|I]]
+[[salt|I]] ([[namak|I]]) [[to taste|Q]], restricted salt for health
+[[1|Q]] [[tbsp|U]] [[lemon juice|I]]
+[[1/4|Q]] [[cup|U]] [[chopped|P]] [[coriander|I]] ([[dhania|I]])
+[[1|Q]] [[cup|U]] [[kabuli chana|I]] ([[white chick peas|I]]) , [[soaked overnight and drained|P]]
+[[tea bags|I]]
+[[1/2|Q]] [[tsp|U]] [[cumin seeds|I]] ([[jeera|I]])
+[[1/2|Q]] [[tsp|U]] [[finely chopped|P]] [[ginger|I]] ([[adrak|I]])
+[[2|Q]] [[tsp|U]] [[finely chopped|P]] [[garlic|I]] ([[lehsun|I]])
+[[2|Q]] [[tsp|U]] [[chole masala|I]]
+[[1|Q]] [[tsp|U]] [[dried mango powder|I]] ([[amchur|I]])
+[[2|Q]] [[tsp|U]] [[dhaniya powder|I]] ([[coriander powder|I]])
+[[1|Q]] [[tsp|U]] [[cumin seeds (jeera) powder|I]]
+[[1|Q]] [[cup|U]] [[maida|I]] ([[plain flour|I]])
+[[1/2|Q]] [[cup|U]] [[boiled peeled and grated|P]] [[potatoes|I]]
+[[2 1/2|Q]] [[tbsp|U]] [[dahi|I]] ([[curd|I]])
+[[1/2|Q]] [[tbsp|U]] [[oil|I]]
+[[16|Q]] [[oil|I]] for deep-frying
+[[6-8|Q]] [[sliced|P]] [[onions|I]]
+[[2|Q]] [[lemon wedge|I]]
+[[1|Q]] [[tea bags|I]] or [[tsp|U]] of [[tea powder|I]] [[tied in muslin cloth|P]]
+[[1|Q]] [[cup|U]] [[besan|I]] ([[gram flour|I]])
+[[1 1/2|Q]] [[tbsp|U]] [[rava|I]] ([[suji|I]])
+[[3 1/2|Q]] [[tsp|U]] [[sugar|I]]
+[[1|Q]] [[tsp|U]] [[ginger-green chilli paste|I]]
+[[1/2|Q]] [[tsp|U]] [[citric acid|I]] ([[nimbu ka phool|I]])
+[[1|Q]] [[tsp|U]] [[lemon juice|I]]
+[[1 1/2|Q]] [[tsp|U]] [[fruit salt|I]]
+[[1/4|Q]] [[tsp|U]] [[oil|I]] for greasing
+[[whole dry Kashmiri red chilli|I]]
+[[3 to 4|Q]] [[clove|U]] [[garlic|I]] ([[lehsun|I]]) , [[roughly chopped|P]]
+[[2|Q]] [[tbsp|U]] [[butter|I]]
+[[1/4|Q]] [[cup|U]] [[chopped|P]] [[onion|I]]
+[[45661|Q]] [[chopped|P]] [[capsicum|I]]
+[[3/4|Q]] [[cup|U]] [[tomato puree|I]]
+[[1 1/2|Q]] [[tbsp|U]] [[pav bhaji masala|I]]
+[[1|Q]] [[cup|U]] [[boiled and mashed|P]] [[potatoes|I]]
+[[1/4|Q]] [[cup|U]] [[boiled|P]] [[green peas|I]]
+[[2|Q]] [[tbsp|U]] [[finely chopped|P]] [[coriander|I]] ([[dhania|I]])
+[[4 to 5|Q]] [[tbsp|U]] [[grated|P]] [[processed cheese|I]]
+[[1/4|Q]] [[cup|U]] [[chopped|P]] [[dry Kashmiri red chillies|I]]
+[[1/2|Q]] [[tsp|U]] [[chana dal|I]] ([[split Bengal gram|I]])
+[[1/2|Q]] [[tsp|U]] [[fenugreek (methi) seeds|I]]
+[[1/2|Q]] [[tsp|U]] [[black peppercorns|I]] ([[kalimirch|I]])
+[[2|Q]] [[tbsp|U]] [[coriander (dhania) seeds|I]]
+[[1/2|Q]] [[cup|U]] [[toovar (arhar) dal|I]] , [[washed and drained|P]]
+[[1/4|Q]] [[tsp|U]] [[asafoetida|I]] ([[hing|I]])
+[[1|Q]] [[cup|U]] [[red pumpkin|I]] ([[bhopla|I]] / [[kaddu|I]]) [[cubes|P]]
+[[1/2|Q]] [[cup|U]] [[potato|I]] [[cubes|P]]
+[[1/2|Q]] [[cup|U]] [[tomato|I]] [[cubes|P]]
+[[1/2|Q]] [[cup|U]] [[onion|I]] [[cubes|P]]
+[[1/2|Q]] [[cup|U]] [[drumstick|I]] [[pieces|P]]
+[[2|Q]] [[slit|P]] [[green chilli|I]]
+[[1|Q]] [[tbsp|U]] [[tamarind (imli) pulp|I]]
+[[1|Q]] [[tbsp|U]] [[oil|I]]
+[[1/2|Q]] [[tsp|U]] [[mustard seeds|I]] ( [[rai|I]] / [[sarson|I]])
+[[4 to 5|Q]] [[curry leaves|I]] ([[kadi patta|I]])
+[[1|Q]] [[whole dry Kashmiri red chilli|I]] , [[broken into pieces|P]]
+[[1|Q]] [[tbsp|U]] [[finely chopped|P]] [[coriander|I]] ([[dhania|I]])
+[[1|Q]] [[tbsp|U]] [[chana dal|I]] ([[split Bengal gram|I]])
+[[1|Q]] [[tbsp|U]] [[toovar (arhar) dal|I]]
+[[1|Q]] [[tbsp|U]] [[urad dal|I]] ([[safed urad dal|I]])
+[[1|Q]] [[tsp|U]] [[fenugreek (methi) seeds|I]]
+[[4|Q]] [[tbsp|U]] [[coriander (dhania) seeds|I]]
+[[8|Q]] [[whole dry Kashmiri red chilli|I]]
+[[1|Q]] [[tsp|U]] [[haldi powder|I]] ([[turmeric powder|I]])
+[[15 to 20|Q]] [[curry leaves|I]] ([[kadi patta|I]])
+[[3/4|Q]] [[cup|U]] [[toovar (arhar) dal|I]]
+[[2|Q]] [[drumsticks|I]] ([[saijan ki phalli|I]] / [[saragavo|I]]) , [[cut into 3? pieces|P]]
+[[1/2|Q]] [[cup|U]] [[bottle gourd|I]] ([[doodhi|I]] / [[lauki|I]]) [[cubes|P]]
+[[1|Q]] [[tsp|U]] [[mustard seeds|I]] ( [[rai|I]] / [[sarson|I]])
+[[6 to 7|Q]] [[curry leaves|I]] ([[kadi patta|I]])
+[[2|Q]] [[pinches|U]] of [[asafoetida|I]] ([[hing|I]])
+[[1/2|Q]] [[cup|U]] [[chopped|P]] [[tomato|I]]
+[[8|Q]] [[small|P]] [[shallots|I]] ([[madras onions|I]])
+[[2 1/2|Q]] [[tbsp|U]] [[tamarind (imli) pulp|I]]
+[[3|Q]] [[tbsp|U]] [[sambar masala|I]]
+[[2|Q]] [[tsp|U]] [[red chilli powder|I]]
+[[2|Q]] [[tsp|U]] [[haldi powder|I]] ([[turmeric powder|I]])
+[[3|Q]] [[tbsp|U]] [[sambar powder|I]]
+[[a pinch|Q]] of [[haldi powder|I]] ([[turmeric powder|I]])
+[[1/2|Q]] [[cup|U]] [[toovar (arhar) dal|I]]
+[[1/2|Q]] [[tsp|U]] [[asafoetida|I]] ([[hing|I]])
+[[1/2|Q]] [[cup|U]] [[roughly chopped|P]] [[onion|I]]
+[[1/2|Q]] [[cup|U]] [[roughly chopped|P]] [[tomato|I]]
+[[1 1/2|Q]] [[cups|U]] [[radish|I]] ([[mooli|I]]) [[slices|P]]
+[[2|Q]] [[tbsp|U]] [[tamarind (imli) water|I]]
+[[5|Q]] [[tsp|U]] [[sambar powder|I]]
+[[1|Q]] [[tsp|U]] [[urad dal|I]] ([[safed urad dal|I]])
+[[8|Q]] [[curry leaves|I]] ([[kadi patta|I]])
+[[2|Q]] [[whole dry Kashmiri red chilli|I]] , [[broken into pieces|P]]
+[[2-3|Q]] [[green chillies|I]] [[slit|P]]
+[[salt|I]] [[as per taste|Q]]
+[[1|Q]] [[tsp|U]] [[jeera|I]]
+[[1/2|Q]] [[tsp|U]] [[haldi|I]]
+[[2|Q]] [[tbsp|U]] [[ghee|I]]
+[[3|Q]] [[chopped|P]] [[onions|I]]
+[[1|Q]] [[inch|U]] [[adrak|I]] [[grated|P]]
+[[6-7|Q]] [[lehsun|I]] [[cloves|U]] [[crushed|P]]
+[[a pinch|Q]] of [[hing|I]]
+[[handful|Q]] of [[dhaniya patta|I]]
+[[1|Q]] [[cup|U]] [[basmati rice|I]] [[soaked for 30 mins|P]]
+[[500|Q]] [[gm|U]] [[chicken|I]], [[cut into medium pieces|P]]
+[[250|Q]][[g|U]] [[mutton with bones|I]]
+[[1|Q]] [[kg|U]] [[chiken|I]] [[curry cut|P]]
+[[4|Q]] [[eggs|I]] [[boiled and peeled|P]]
+[[2|Q]] [[tbsp|U]] [[dahi|I]]
+[[1/2|Q]] [[cup|U]] [[thick curd|I]], [[whisked|P]]
+[[1|Q]] [[tsp|U]] [[kasuri methi|I]] [[crushed between palms|P]]
+[[2|Q]] [[tomatos|I]] [[finely chopped|P]]
+[[2|Q]] [[big|P]] [[onion|I]] [[sliced thinly|P]]
+[[10-12|Q]] [[curry leafs|I]]
+[[1|Q]] [[tsp|U]] [[rai|I]]
+[[1/4|Q]] [[tsp|U]] [[methi dana|I]]
+[[2|Q]] [[dry red chilli|I]] [[broken|P]]
+[[1|Q]] [[tbsp|U]] [[imli pulp|I]]
+[[2|Q]] [[cups|U]] [[toor dal|I]], [[washed|P]]
+[[1|Q]] [[tsp|U]] [[sabut dhaniya|I]]
+[[1/2|Q]] [[tsp|U]] [[kali mirch powder|I]]
+[[1|Q]] [[tsp|U]] [[garam masala powdr|I]]
+[[2|Q]] [[tbsp|U]] [[mustard oil|I]]
+[[200|Q]] [[gms|U]] [[paneer|I]] [[cubed|P]]
+[[1|Q]] [[cup|U]] [[frozen matar|I]]
+[[2|Q]] [[aloo|I]] [[boiled and mashed|P]]
+[[1|Q]] [[small|P]] [[bunch|U]] [[pudina leaves|I]]
+[[1/2|Q]] [[lemon juice|I]]
+[[2|Q]] [[tsp|U]] [[lal mirch powder|I]]
+[[1|Q]] [[medium sized|P]] [[tomato|I]], [[pureed|P]]
+[[3-4|Q]] [[elaichi|I]]
+[[2|Q]] [[laung|I]]
+[[1|Q]] [[tej patta|I]]
+[[1|Q]] [[tsp|U]] [[amchur|I]]
+[[oil|I]] for frying
+[[namak|I]] [[to taste|Q]]
+[[water|I]] [[as needed|Q]]
+[[1|Q]] [[cup|U]] [[grated|P]] [[coconut|I]]
+[[2|Q]] [[tbsp|U]] [[besan|I]] [[roasted|P]]
+[[1/2|Q]] [[kg|U]] [[prawns|I]] [[cleaned and deveined|P]]
+[[2|Q]] [[pomfret fish|I]], [[cleaned|P]]
+[[1|Q]] [[tsp|U]] [[sugar|I]] (optional)
+[[2|Q]] [[tbsp|U]] [[cashews|I]] [[soaked in warm water|P]]
+[[few|Q]] [[strands|U]] [[kesar|I]] [[soaked in milk|P]]
+[[1|Q]] [[tbsp|U]] [[ginger garlic paste|I]]

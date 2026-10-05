@@ -1,0 +1,45 @@
+# One recipe URL per line. Lines starting with # are ignored.
+# Every URL below was checked on 2026-09-30 and returned ingredient lines.
+# Veg Recipes of India is not included: it returns HTTP 403 (blocks scrapers).
+
+# --- Hebbar's Kitchen (veg; North + South) ---
+https://hebbarskitchen.com/paneer-butter-masala-recipe/
+https://hebbarskitchen.com/hotel-sambar-recipe-sambar-dal-recipe/
+https://hebbarskitchen.com/rava-pongal-recipe-semolina-pongal/
+https://hebbarskitchen.com/sambar-vada-recipe-sambar-vadai/
+https://hebbarskitchen.com/sambar-rice-recipe-sambar-sadam-recipe/
+https://hebbarskitchen.com/south-indian-bread-upma-recipe/
+https://hebbarskitchen.com/rajma-recipe-punjabi-rajma-masala/
+https://hebbarskitchen.com/aloo-palak-gravy-recipe-palak-aloo/
+https://hebbarskitchen.com/aloo-gobi-masala-recipe-aloo-gobi-curry/
+https://hebbarskitchen.com/punjabi-dum-aloo-recipe-dhaba-style/
+https://hebbarskitchen.com/rajma-pulao-recipe-kidney-beans-pulao/
+https://hebbarskitchen.com/mix-dal-recipe-mix-dal-fry-recipe/
+https://hebbarskitchen.com/palak-sabji-recipe-dhaba-style-palak/
+
+# --- Archana's Kitchen (non-veg + South Indian veg) ---
+https://www.archanaskitchen.com/recipe/chole-biryani-recipe-spicy-chana-biryani-recipe
+https://www.archanaskitchen.com/recipe/classic-andhra-style-chicken-curry-recipe
+https://www.archanaskitchen.com/recipe/kerala-varutharacha-mutton-curry-recipe
+https://www.archanaskitchen.com/recipe/mangsher-jhol-recipe-bengali-style-mutton-curry
+https://www.archanaskitchen.com/recipe/egg-curry-recipe
+https://www.archanaskitchen.com/recipe/chettinad-pepper-chicken-dry-recipe
+https://www.archanaskitchen.com/recipe/keema-biryani
+https://www.archanaskitchen.com/recipe/kerala-style-prawns-shrimp-biryani-chemmeen-biryani-recipe
+https://www.archanaskitchen.com/recipe/keema-bhindi-recipe-okra-minced-meat-curry
+https://www.archanaskitchen.com/recipe/prawns-biryani-recipe
+https://www.archanaskitchen.com/recipe/kerala-avial-recipe
+https://archanaskitchen.com/murungakkai-poriyal-recipe-south-indian-style-drumstick-stir-fry
+https://www.archanaskitchen.com/recipe/avarakkai-poricha-kootu-recipe-broad-beans-kootu-recipe
+https://archanaskitchen.com/kerala-style-karamani-thoran-recipe-yard-beans-stir-fry-with-coconut
+
+# --- Tarla Dalal (veg; North + South + Gujarati) ---
+https://www.tarladalal.com/dal-makhani-30900r
+https://www.tarladalal.com/rajma-and-urad-dal-5574r
+https://www.tarladalal.com/chole-bhature/
+https://www.tarladalal.com/chole/
+https://www.tarladalal.com/pav-bhaji-dhokla--non--fried-snacks--33271r
+https://tarladalal.com/sambar--sambhar-idlis-and-dosas-1663r
+https://www.tarladalal.com/restaurant-style-sambar-sambar-with-sambar-masala-32735r
+https://www.tarladalal.com/sambar-recipe-south-indian-homemade-sambar-recipe-1557r
+https://www.tarladalal.com/mullangi-sambar-south-indian-radish-sambhar-42456r
